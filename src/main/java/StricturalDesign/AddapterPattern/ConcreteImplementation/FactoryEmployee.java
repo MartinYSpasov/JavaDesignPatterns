@@ -15,17 +15,16 @@ public class FactoryEmployee implements Employee {
         this.age = age;
     }
 
-    @Override
+
     public String getFirstName() {
         return firstName;
     }
 
-    @Override
+
     public String getLastName() {
         return lastName;
     }
 
-    @Override
     public Integer getAge() {
         return age;
     }
