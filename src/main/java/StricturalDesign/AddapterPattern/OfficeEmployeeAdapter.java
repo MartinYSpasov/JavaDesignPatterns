@@ -1,7 +1,4 @@
-package StricturalDesign.AddapterPattern.Adapter;
-
-import StricturalDesign.AddapterPattern.ConcreteImplementation.OfficeEmployee;
-import StricturalDesign.AddapterPattern.Interface.Employee;
+package StricturalDesign.AddapterPattern;
 
 
 public class OfficeEmployeeAdapter implements Employee {

@@ -1,4 +1,4 @@
-package StricturalDesign.AddapterPattern.ConcreteImplementation;
+package StricturalDesign.AddapterPattern;
 
 
 public class OfficeEmployee {

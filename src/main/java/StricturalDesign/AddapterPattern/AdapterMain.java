@@ -1,10 +1,5 @@
 package StricturalDesign.AddapterPattern;
 
-import StricturalDesign.AddapterPattern.Adapter.OfficeEmployeeAdapter;
-import StricturalDesign.AddapterPattern.ConcreteImplementation.FactoryEmployee;
-import StricturalDesign.AddapterPattern.ConcreteImplementation.OfficeEmployee;
-import StricturalDesign.AddapterPattern.Interface.Employee;
-
 import java.util.ArrayList;
 import java.util.List;
 

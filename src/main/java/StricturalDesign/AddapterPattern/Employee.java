@@ -1,4 +1,4 @@
-package StricturalDesign.AddapterPattern.Interface;
+package StricturalDesign.AddapterPattern;
 
 
 public interface Employee {

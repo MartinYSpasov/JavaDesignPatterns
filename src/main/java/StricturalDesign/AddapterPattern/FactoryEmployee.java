@@ -1,6 +1,4 @@
-package StricturalDesign.AddapterPattern.ConcreteImplementation;
-
-import StricturalDesign.AddapterPattern.Interface.Employee;
+package StricturalDesign.AddapterPattern;
 
 
 public class FactoryEmployee implements Employee {
